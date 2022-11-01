@@ -20,7 +20,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "browser-sync": "^2.26.7",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "^4.2.0",
     "gulp-sourcemaps": "^2.6.5",
     "webpack": "^4.41.5",
